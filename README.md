@@ -1,11 +1,8 @@
-# ITB 9203 - Object Oriented Programming in Java
+# Object Oriented Programming in Java
 
-**Jaramogi Oginga Odinga University of Science and Technology**
-**School of Informatics and Innovative Systems**
-**Course Instructor:** Mr. Tim Murkomen
-**Contact:** murkomen.jooust@gmail.com
+**Tim Murkomen**
 
-This is the code repository that goes with our weekly practicals for ITB 9203 (September - December 2026). Each folder covers one week, from Week 1 (Introduction to Java) through to Week 14 (Revision).
+This is the code repository that goes with our weekly practicals for this course. Each folder covers one week, from Week 1 (Introduction to Java) through to Week 14 (Revision).
 
 ## How this repository is organised
 
@@ -25,10 +22,11 @@ The full practical instructions - the actual tasks you are marked on - are in th
 
 ## A note on the code style
 
-I have kept every file as simple and readable as possible, since many of you are meeting programming for the first time. I have not filled the files with comments explaining what each line does - if you cannot yet tell what a line does by reading it, ask me in class or by email rather than relying on a comment to explain it for you. That is a far better way to actually learn the language.
+I have kept every file as simple and readable as possible, since many of you are meeting programming for the first time. I have not filled the files with comments explaining what each line does - if you cannot yet tell what a line does by reading it, ask me in class rather than relying on a comment to explain it for you. That is a far better way to actually learn the language.
 
 ## Submitting your practicals
 
-Please continue to follow the submission process described in each week's practical document: write and test your own solution in NetBeans/Eclipse, capture your code and its output as screenshots, paste them into a Word document, and email it to me at murkomen.jooust@gmail.com using the subject line format given in that week's practical. I do not normally accept late submissions.
+Please continue to follow the submission process described in each week's practical document: write and test your own solution in NetBeans/Eclipse, capture your code and its output as screenshots, paste them into a Word document, and submit it using the process and deadline given in that week's practical.
 
--- Tim
+
+-- Tim Murkomen
