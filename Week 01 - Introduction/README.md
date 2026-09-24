@@ -1,6 +1,8 @@
 # Week 1 - Introduction to Java & Object-Oriented Programming
 
-Full task instructions: see `WEEK 01 - Practical - Getting Started with Java.docx` in the PRACTICALS folder.
+Full task instructions, including a step-by-step guide to installing the JDK and Eclipse on Windows: see `WEEK 01 - Practical - Getting Started with Java.docx` in the PRACTICALS folder.
+
+Before opening these files, make sure `java -version` and `javac -version` both work in Command Prompt, and that Eclipse can create a Java Project without complaining about a missing JRE — the practical document walks through this from scratch.
 
 **Files in this folder**
 
